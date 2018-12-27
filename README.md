@@ -8,5 +8,7 @@ Websites with free GOOD/GREAT stock photos or videos.
 
 ## Videos:
 https://pixabay.com/videos/
+
 https://videos.pexels.com/
+
 http://www.coverr.co/
