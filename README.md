@@ -26,6 +26,7 @@ A list with multiple websites: https://dev.to/kedark/free-illustrations-resource
 
 # Generated Faces
 https://generated.photos/
+**(Just free for personal use!)**
 > "Unique, worry-free model photos — Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API."
 
 
