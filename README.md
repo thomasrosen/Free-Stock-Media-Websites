@@ -23,6 +23,7 @@ https://undraw.co/illustrations
 
 A list with multiple websites: https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c
 
+Not all free but crazy: https://absurd.design/
 
 # Generated Faces
 https://generated.photos/
